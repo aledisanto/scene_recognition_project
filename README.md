@@ -44,7 +44,7 @@ Il lavoro è strutturato come un percorso evolutivo in tre fasi, esplorando e ri
 
 ## Contenuto della Repository
 * **[Computer_Vision_and_Pattern_Recognition_PROJECT](./Computer_Vision_progetto_Di_Santo_Alessandro.ipynb)**: progetto descritto di cui sopra realizzato in linguaggio Python in Google Colab sfruttando un dataset di riferimento *Lazebnik et al., 2006* (caricato sul mio dropbox personale).
-* 
+* **[Report_Progetto](./report_progetto_Di_Santo_Alessandro.pdf)**: report del progetto in formato pdf in cui vado a spiegare, con riferimenti teorici, "cosa" e "come" viene realizzato il progetto/codice di *Scene Recognition*.
 
 ---
 *Progetto realizzato da: Alessandro Di Santo*  
